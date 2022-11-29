@@ -23,7 +23,10 @@
     
     <lapel for="DAL">Chiều cao tam giác(từ 1 đến 10) </lapel>
       
-     <input type="number" id="DAL"
+     <input type="number" id="DAL">
+
+     <div class="title" style="padding: 12px; font-size: 24px;">Exercise 3: </div>
+     <a href="figma.html" style="padding: 12px; font-size: 24px;">figma</a>
 
      <button onclick="numberOneTriangle()" class="button"></button>
     <script src="./index.js"></script>
